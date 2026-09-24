@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Bogatu Marco 
 
-"Passionate and highly motivated analyst developer, I am always looking to acquire new skills and fully dedicate myself to the projects I undertake."
+Passionate and highly motivated analyst developer, I am always looking to acquire new skills and fully dedicate myself to the projects I undertake.
 
 ## 📬 Contact
 <p>
@@ -26,14 +26,14 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)[![Oracle](https://skillicons.dev/icons?i=oracle)](https://skillicons.dev)
 
 ---
 
 ## 🎓 Études et Formations
 
-* **CESS - Technique Transition Informatique** *(De 2017 à 2023)*  
-  * Ello (anciennement Institut Cardijn Lorraine), Arlon, Belgique*
+* **CESS - Technique Transition Informatique** *(2017 to 2023)*  
+  * Ello (Formerly Institut Cardijn Lorraine), Arlon, Belgique
 
-* **Bachelier en programmation, Orientation développement d'applications** *(Depuis 2023)*
-  * Haute École Robert Schuman, Libramont, Belgique*
+* **Bachelier en programmation, Orientation développement d'applications** *(Since 2023)*
+  * Haute École Robert Schuman, Libramont, Belgique
