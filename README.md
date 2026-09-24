@@ -26,7 +26,7 @@ Passionate and highly motivated analyst developer, I am always looking to acquir
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)[![Oracle](https://skillicons.dev/icons?i=oracle)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ---
 
