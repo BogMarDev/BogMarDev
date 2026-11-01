@@ -2,6 +2,8 @@
 
 Passionate and highly motivated analyst developer, I am always looking to acquire new skills and fully dedicate myself to the projects I undertake.
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## 📬 Contact
 <p>
   <a href="mailto:marcobogatudev@protonmail.com">
